@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510841552 source:d:\projects cpp\heap_priorityqueue\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iomanip>
+
