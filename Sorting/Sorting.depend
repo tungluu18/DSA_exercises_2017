@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512066822 source:d:\projects cpp\dsa_lab\sorting\sorting.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<random>
+
